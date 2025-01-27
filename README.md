@@ -16,6 +16,32 @@ Sectoral scopes 01 Energy industries
 _____________________________________
 
 UCR is a simple, fast and scalable protocol to accelerate the mining of voluntary carbon & water credits from green projects. Universal Carbon Registry was established on 11 July 2021 and is the First and Largest Voluntary Carbon Credits Registry in India. UCR is also the First Registry and Standard to issue Water Offset Credits (RoUs) in the world based on actions taken for capturing/recycling/reusing unutilized sources of water that is socially and culturally equitable, environmentally sustainable and economically beneficial, achieved through site and catchment based actions independent of water quality parameters. www.ucarbonregistry.io
+
+The project activity aims to harness kinetic energy of water (renewable source) to generate electricity. 
+The net generated electricity from the project activity is sold to state electricity board i.e., Himachal
+Pradesh State Electricity Board (HPSEB) under the Power Purchase Agreement (PPA) signed
+between the Project Proponent (PP) and the utility. In pre-project scenario the PP was importing the 
+required electricity from the state utility i.e., HPSEB (is a part of regional grid, earlier known as 
+NEWNE grid) to meet its captive requirement of electrical energy. Currently, NEWNE grid is 
+connected to large numbers of fossil fuel-based power plants. Hence, project activity is displacing the 
+gross electricity generation i.e., 42,258 MWh from the NEWNE grid, which otherwise would have 
+been imported from the NEWNE grid. This project activity is also called Kiunr Hydro Electric 
+project.
+
+Country : India
+
+State : Himachal Pradesh
+
+District : Chamba
+
+Village : Kiunr-Luna
+
+The project site is located 60 km from district headquarter of Chamba district in the state of Himachal 
+Pradesh. It is approximately 15 km from Luna. Metalled road from Chamba to Bharmour diverts 
+towards Kiunr village from Luna approximately 45 km from Chamba. The project site is en-route on 
+this road. The nearest major railway station to the project site is Pathankot Railway Station at a 
+distance of about 200 kms. The geographic co-ordinate of the project locations is 32° 21' N to 32° 23' 
+N and 76° 19' E to 76° 22' E.
 __________
 
 ISSED DATE: 21/03/2022
