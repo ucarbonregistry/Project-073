@@ -1,6 +1,18 @@
 # Project-073
 5.00 MW Small Scale Hydro Power project by M/S Snowdew Hydroelectric Power Projects Pvt. Ltd.
 The proposed project activity with title under UCR “5.0 MW (2X 2.5 MW) Small Scale Hydro Power project by M/S Snowdew Hydroelectric Power Projects Pvt. Ltd.”, is a grid connected Hydro Electric Power project located in Chamba district in the state of Himachal Pradesh (India). The project is an operational activity with continuous reduction of GHG, currently being applied under “Universal Carbon Registry” (UCR).
+
+Project participants M/S Snowdew Hydroelectric Power Projects Pvt. 
+Ltd. (Project Proponent)
+
+Host Party India
+
+Applied methodologies and standardized baselines Applied Baseline Methodology:
+AMS-I.D.: “Grid connected renewable electricity
+generation”, version 18
+
+Sectoral scopes 01 Energy industries
+(Renewable/Non-Renewable Sources)
 _____________________________________
 
 UCR is a simple, fast and scalable protocol to accelerate the mining of voluntary carbon & water credits from green projects. Universal Carbon Registry was established on 11 July 2021 and is the First and Largest Voluntary Carbon Credits Registry in India. UCR is also the First Registry and Standard to issue Water Offset Credits (RoUs) in the world based on actions taken for capturing/recycling/reusing unutilized sources of water that is socially and culturally equitable, environmentally sustainable and economically beneficial, achieved through site and catchment based actions independent of water quality parameters. www.ucarbonregistry.io
