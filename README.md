@@ -17,6 +17,11 @@ _____________________________________
 
 UCR is a simple, fast and scalable protocol to accelerate the mining of voluntary carbon & water credits from green projects. Universal Carbon Registry was established on 11 July 2021 and is the First and Largest Voluntary Carbon Credits Registry in India. UCR is also the First Registry and Standard to issue Water Offset Credits (RoUs) in the world based on actions taken for capturing/recycling/reusing unutilized sources of water that is socially and culturally equitable, environmentally sustainable and economically beneficial, achieved through site and catchment based actions independent of water quality parameters. www.ucarbonregistry.io
 
+The project activity involves 2 numbers of Hydro Turbine Generators of Pelton Wheel Horizontal 
+type (2500 kW each) with internal electrical lines connecting the project activity with local evacuation
+facility. The generators generate power at 6.6 kV, which can further be stepped up to 33 kV. The
+project activity can operate in the frequency of 50 Hz and the voltage of 6.6 kV
+
 The project activity aims to harness kinetic energy of water (renewable source) to generate electricity. 
 The net generated electricity from the project activity is sold to state electricity board i.e., Himachal
 Pradesh State Electricity Board (HPSEB) under the Power Purchase Agreement (PPA) signed
